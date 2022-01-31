@@ -1,2 +1,1 @@
-# ShopApp
- 
+Its My App
